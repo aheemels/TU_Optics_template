@@ -1,0 +1,7 @@
+{
+"project_name": "default_name"
+"project_description": "Short description of the project"
+"author": "Full name"
+"email": "my_email@tudelft.nl"
+"project_team": ["Member 1", "Member 2", "Member 3", "Member 4"]
+}

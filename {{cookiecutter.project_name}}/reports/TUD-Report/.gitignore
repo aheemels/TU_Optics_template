@@ -1,0 +1,10 @@
+*.gz
+*.aux
+*.bcf
+*.loc
+*.out
+*.run
+*.soc
+*.toc
+*.bbl
+*.blg
